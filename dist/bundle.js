@@ -22680,6 +22680,7 @@ var a = function a() {
     return console.log('hhaassa');
 };
 a();
+console.log(History.state);
 
 var B = function B() {
     _classCallCheck(this, B);
